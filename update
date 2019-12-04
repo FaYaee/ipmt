@@ -1,0 +1,10 @@
+{
+    "Major": 1,
+    "Minor": 0,
+    "Build": 0,
+    "Patch": 1,
+    "Description": "测试版本",
+    "Uri": "https://gitee.com/ykprdc/IPMT/raw/master/update",
+    "PargramUri": "https://gitee.com/ykprdc/IPMT/raw/master/icpg.zip",
+    "AcceptLowVersion": false
+}
