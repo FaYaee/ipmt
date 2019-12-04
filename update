@@ -4,7 +4,7 @@
     "Build": 0,
     "Patch": 1,
     "Description": "测试版本",
-    "Uri": "https://gitee.com/ykprdc/IPMT/raw/master/update",
-    "PargramUri": "https://gitee.com/ykprdc/IPMT/raw/master/icpg.zip",
+    "Uri": "https://github.com/FaYaee/ipmt/raw/master/update",
+    "PargramUri": "https://github.com/FaYaee/ipmt/raw/master/icpg.zip",
     "AcceptLowVersion": false
 }

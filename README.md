@@ -6,4 +6,4 @@
 3. 点击ipmtstartup.exe启动软件
 
 ### 下载地址
-+ [点击我下载最新程序包（测试版）](https://gitee.com/ykprdc/IPMT/raw/master/ipmt.zip)
++ [点击我下载最新程序包（测试版）](https://github.com/FaYaee/ipmt/raw/master/ipmt.zip)
