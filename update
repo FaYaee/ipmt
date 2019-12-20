@@ -3,7 +3,7 @@
     "Minor": 0,
     "Build": 0,
     "Patch": 1,
-    "Description": "测试版本",
+    "Description": "预览测试版",
     "Uri": "https://github.com/FaYaee/ipmt/raw/master/update",
     "PargramUri": "https://github.com/FaYaee/ipmt/raw/master/icpg.zip",
     "AcceptLowVersion": false
