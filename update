@@ -2,8 +2,8 @@
     "Major": 1,
     "Minor": 0,
     "Build": 0,
-    "Patch": 2,
-    "Description": "预览测试版",
+    "Patch": 3,
+    "Description": "预览测试版：\n1.新增PM25解析.\n2.修复打开图片存储地址失败的问题",
     "Uri": "https://github.com/FaYaee/ipmt/raw/master/update",
     "PargramUri": "https://github.com/FaYaee/ipmt/raw/master/icpg.zip",
     "AcceptLowVersion": false
