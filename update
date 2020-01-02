@@ -2,9 +2,9 @@
     "Major": 1,
     "Minor": 0,
     "Build": 0,
-    "Patch": 4,
-    "Description": "预览测试版：\n新增命令下发与设备注册",
-    "Uri": "https://github.com/FaYaee/ipmt/raw/master/update",
-    "PargramUri": "https://github.com/FaYaee/ipmt/raw/master/icpg.zip",
+    "Patch": 5,
+    "Description": "平台迁移",
+    "Uri": "https://gitee.com/ykprdc/IPMT/raw/master/update",
+    "PargramUri": "https://gitee.com/ykprdc/IPMT/raw/master/icpg.zip",
     "AcceptLowVersion": false
 }
